@@ -1,0 +1,6 @@
+S=input()
+num = len(S)
+border = "+"*(num+2)
+print(border)
+print("+"+S+"+")
+print(border)
